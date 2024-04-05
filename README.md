@@ -1,0 +1,3 @@
+- A simple tool to help users make informed decisions based on info they can trust.
+- Trusted information can be provided through links.
+- The user can then ask questions and the tool will sift throught text to find relevant chunks of information and make a few OpenAI API calls to find a good answer.
